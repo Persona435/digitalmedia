@@ -22,8 +22,6 @@ a:hover, a:active, a:focus {
 	margin: 0 auto;
 }
 .header {
-	font: Courier;
-	background-color: #C7DBF2;
 	background: #768EA8;
 	text-align: center;
 	margin: 0px;
@@ -31,11 +29,11 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	height: 80px;
+	font: Courier, monospace;
+	color: #C7DBF2;
 	
 }
 .nav {
-	font: Courier;
-	background-color: #768EA8;
 	background: #C7DBF2;
 	margin: 0px;
 	padding: 5;
@@ -43,6 +41,7 @@ a:hover, a:active, a:focus {
 	width: 100%;
 	height: 60px;
 	text-align: center;
+	font: Courier, monospace;
 }
 .content {
 	background: #F5C9C9;

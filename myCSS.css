@@ -3,6 +3,17 @@
 body {
 	margin: 0 auto;
 }
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
+
+
 .homePage {
 	background: #B3B2A5;
 }
@@ -11,6 +22,8 @@ body {
 	margin: 0 auto;
 }
 .header {
+	font: Courier, monospace;
+	background-color: #C7DBF2;
 	background: #768EA8;
 	text-align: center;
 	margin: 0px;
@@ -21,6 +34,8 @@ body {
 	
 }
 .nav {
+	font: Courier, monospace;
+	background-color: #768EA8;
 	background: #C7DBF2;
 	margin: 0px;
 	padding: 5;

@@ -4,10 +4,10 @@ body {
 	margin: 0 auto;
 }
 a:link {
-     color: #000000;
+     color: #768EA8;
 }
 a:visited {
-     color: #F5C9C9;
+     color: #768EA8;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
